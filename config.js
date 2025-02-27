@@ -2,13 +2,13 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk' 
 import { fileURLToPath } from 'url' 
 
-global.owner = [
-  ['5491168352204', 'FG', true],
+global.owner = [59894243071
+  ['59894243071', 'FG', true],
   ['5493794297363'],
   ['59172945992']
 ] //Numeros de owner 
 
-global.mods = [''] 
+global.mods = ['59894243071'] 
 global.prems = ['50489079501', '573143917092']
 global.botNumber = [''] 
 global.APIs = { // API Prefix
@@ -22,11 +22,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'DyLux┃ᴮᴼᵀ' 
+global.packname = '✿◟La Bot Activa 24/7_✿◟┃ᴮᴼᵀ' 
 global.author = '@fg98' 
 
 //--info FG
-global.botName = 'DyLux'
+global.botName = '✿◟La Bot Activa 24/7_✿◟'
 global.fgig = 'https://instagram.com/fg98_ff' 
 global.fgsc = 'https://github.com/FG98F/dylux-bot' 
 global.fgyt = 'https://youtube.com/fg98f'
